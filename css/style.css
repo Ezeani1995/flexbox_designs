@@ -54,6 +54,7 @@ nav ul {
   color: #444;
   font-family: inherit;
   display: inline-flex;
+  margin: 0 10px;
 }
 
 .main-container .a {
